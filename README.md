@@ -1,0 +1,2 @@
+# myGlobalSeq
+golang getGlobal seq
